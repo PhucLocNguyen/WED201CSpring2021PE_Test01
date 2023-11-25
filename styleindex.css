@@ -1,0 +1,41 @@
+.logoContainer > div.col-sm-12 > img{
+text-align: center;
+width: 100%;
+object-fit: cover;
+padding: 10px 0px;
+}
+.carouselSection .col-md-12{
+    padding: 10px;
+}
+.row.margin-layout{
+    margin:5px 10px;
+    
+}
+.row.margin-layout div > p{
+    letter-spacing: 1.1px;
+    color: #fff;
+}
+.row.margin-layout h1{
+    color: yellow;
+    text-align: center;
+}
+ul.formatList::marker{
+    color: #fff;
+}
+
+.formatList>li{
+color: #fff;
+}
+.row.mb-2{
+    margin-bottom: 10px;
+}
+#footer{
+    padding: 15px;
+    border-top: 2px solid yellow;
+    background-color: gray;
+}
+.follow-icons{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
